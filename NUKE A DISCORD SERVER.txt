@@ -1,1 +1,10 @@
+- Make sure the owner or an admin of the server invite one of your bot (Gen bot for fake nitro servers) 
 
+- Install Discord Bot Client (DBC) and open it with the same bot they invited 
+
+- Install a nuke or mass DM/BAN bot and run it on glitch / cmd and destroy it with a new app or same bot
+
+- Done ! - Credits : natrix // natrix_dev 
+
+
+DONT USE IT TO DESTROY RANDOM SERVERS BUT ONLY SCAM SERVERS !
